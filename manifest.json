@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "header": {
-        "name": "[1.21.80]As Chat Addon",
+        "name": "[1.21.90]As Chat Addon",
         "description": "BetaAPIsを有効にする必要があります",
         "uuid": "015d7402-8a6b-1fed-b52a-3376c9d55c12",
         "version": [
@@ -31,7 +31,7 @@
     "dependencies": [
         {
             "module_name": "@minecraft/server",
-            "version": "2.0.0-beta"
+            "version": "2.1.0-beta"
         }
     ]
 }
