@@ -1,9 +1,9 @@
 {
     "format_version": 2,
     "header": {
-        "name": "[1.21.90]As Chat Addon",
-        "description": "BetaAPIsを有効にする必要があります",
-        "uuid": "015d7402-8a6b-1fed-b52a-1423c9d55c12",
+        "name": "[1.21.100]As Chat Addon",
+        "description": "",
+        "uuid": "0a265663-b96c-4dc0-b76d-fbecf6cfcb77",
         "version": [
             0,
             1,
@@ -19,7 +19,7 @@
         {
             "description": "GameTest module",
             "type": "script",
-            "uuid": "4890d28d-902f-4c15-8768-68a872941d6a",
+            "uuid": "2d207df3-488e-486a-8442-f6a9e561fefe",
             "version": [
                 0,
                 1,
@@ -31,7 +31,7 @@
     "dependencies": [
         {
             "module_name": "@minecraft/server",
-            "version": "2.1.0-beta"
+            "version": "2.1.0"
         }
     ]
 }
